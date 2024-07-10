@@ -1,9 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Diaa, a full-time UX Designer 🎨 Passionate about Front-end Development 🚀</div>  
+## <div>I'm Diaa, a full-time UX Designer 🎨 Passionate about Front-end Development 🚀</div>  
   
 
 - 🔭 I’m currently working at [FriendyCar](https://friendycar.com/)  
@@ -99,7 +94,7 @@
 
 <br/>  
 
-<div align="center">
+<div>
 <img src="https://komarev.com/ghpvc/?username=DiaaSalman&&style=flat-square" align="center" />
 </div>  
   
@@ -108,6 +103,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
