@@ -1,7 +1,7 @@
 ## <div>I'm Diaa, a full-time UX Designer 🎨 Passionate about Front-end Development 🚀</div>  
   
 
-- 🔭 I’m currently working at [FriendyCar](https://friendycar.com/)  
+- 🔭 I’m currently working at [ETEC](https://etec.gov.sa/home)  
   
 
 - 🌱 I’m currently learning React with Typescript  
