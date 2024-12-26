@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at [ETEC](https://etec.gov.sa/home)  
   
 
-- 📩 <a href="https://wa.me/20128043621" target="_blank"> Message me on WhatsApp </a> - <a href="mailto:diaasalman970@gmail.com"> Send me an Email </a>
+- 📩 <a href="https://wa.me/201280436261" target="_blank"> Message me on WhatsApp </a> - <a href="mailto:diaasalman970@gmail.com"> Send me an Email </a>
   
 
 - ❓ Ask me about anything related to UX Design & UI Development  
