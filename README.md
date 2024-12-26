@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to UX Design & UI Development  
   
 
-- ⚡ Fun fact: <b>Prefer working at night</b> 🌙, <b>Joker Football Player</b> ⚽
+- ⚡ Fun fact: <b>Mental Health is My Priority</b> 🧠, <b>Joker Football Player</b> ⚽
   
 
 <br/>  
