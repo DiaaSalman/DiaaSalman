@@ -4,13 +4,13 @@
 - 🔭 I’m currently working at [ETEC](https://etec.gov.sa/home)  
   
 
-- 🌱 I’m currently learning React with Typescript  
+- 📩 <p> <a href="https://wa.me/20128043621" target="_blank"> Message me on WhatsApp </a> </p> - <p> <a href="mailto:diaasalman970@gmail.com"> Send me an Email </a> </p>
   
 
 - ❓ Ask me about anything related to UX Design & UI Development  
   
 
-- ⚡ Fun fact: I prefer working at night 🌙  
+- ⚡ Fun fact: <b>Prefer working at night</b> 🌙, <b>Joker Football Player</b> ⚽
   
 
 <br/>  
